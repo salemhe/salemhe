@@ -6,7 +6,7 @@
 <hr />
 <p style="text-align: center;">Full-stack Developer [MERN]</p>
 
- # About Salem Hamis:
+ # About Me!:
 I specialize in building dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). With a strong foundation in front-end and back-end development, I'm dedicated to creating efficient, user-friendly, and scalable solutions that meet clients' needs.
 
 
