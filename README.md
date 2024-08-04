@@ -1,7 +1,3 @@
- <!--# I Am Salem Hamis-->
-<!--<hr />-->
-<!--Full-stack Developer [MERN]-->
-
 # Salem Hamis
 <br>
 <p style="text-align: center;">Full-stack Developer [MERN]</p>
@@ -32,5 +28,4 @@ I specialize in building dynamic and responsive web applications using the MERN 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-i want the first part im salem hamis hr and im a full stack dev to be center
 
